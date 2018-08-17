@@ -1,0 +1,9 @@
+------------------------------------------------------------------------
+r402 | Tomber | 2018-07-19 20:17:16 +0000 (Thu, 19 Jul 2018) | 2 lines
+Changed paths:
+   M /trunk/Raven_Options/Options.lua
+
+Fix bug with the grid overlay (helps align UI elements).
+Allow Expire Time to be set with one decimal place precision.
+------------------------------------------------------------------------
+
